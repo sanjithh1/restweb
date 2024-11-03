@@ -216,7 +216,7 @@ ul {
 ```
 
 ## OUTPUT:
-![restaurant](https://github.com/user-attachments/assets/4a9f2a71-15c3-49d7-af9c-0c232956e97a)
+![Screenshot 2024-11-03 131338](https://github.com/user-attachments/assets/ff0dc98f-20c7-48d2-a1d8-75d55b1d0352)
 
 
 ## RESULT:
