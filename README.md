@@ -220,4 +220,4 @@ ul {
 
 
 ## RESULT:
-The program for designing software company website using HTML and CSS is completed successfully.
+The program for designing restaurant website using HTML and CSS is completed successfully.
